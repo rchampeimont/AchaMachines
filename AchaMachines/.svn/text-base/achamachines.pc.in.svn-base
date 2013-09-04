@@ -1,0 +1,6 @@
+Name: AchaMachines
+Description: AchaMachines
+Version: 
+
+Requires: 
+Libs: -r:@expanded_libdir@/@PACKAGE@/AchaMachines.dll

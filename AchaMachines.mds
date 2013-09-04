@@ -1,0 +1,29 @@
+<Combine fileversion="2.0" name="AchaMachines">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="AchaMachines" configuration="Debug" />
+      <Entry build="True" name="AchaMachinesExamples" configuration="Debug" />
+      <Entry build="True" name="AchaMachinesTests" configuration="Debug" />
+      <Entry build="True" name="AchaMachinesBooTests" configuration="Debug" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="AchaMachines" configuration="Release" />
+      <Entry build="True" name="AchaMachinesExamples" configuration="Release" />
+      <Entry build="True" name="AchaMachinesTests" configuration="Release" />
+      <Entry build="True" name="AchaMachinesBooTests" configuration="Release" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="AchaMachinesTests" single="True">
+    <Execute type="None" entry="AchaMachines" />
+    <Execute type="None" entry="AchaMachinesExamples" />
+    <Execute type="None" entry="AchaMachinesTests" />
+    <Execute type="None" entry="AchaMachinesBooTests" />
+  </StartMode>
+  <MonoDevelop.ChangeLogAddIn.ChangeLogInfo policy="UpdateNearestChangeLog" />
+  <Entries>
+    <Entry filename="AchaMachines/AchaMachines.mdp" />
+    <Entry filename="AchaMachinesExamples/AchaMachinesExamples.mdp" />
+    <Entry filename="AchaMachinesTests/AchaMachinesTests.mdp" />
+    <Entry filename="AchaMachinesBooTests/AchaMachinesBooTests.mdp" />
+  </Entries>
+</Combine>

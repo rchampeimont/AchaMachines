@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/misc/!svn/ver/1260/AchaMachines/AchaMachinesExamples
+END
+TuringMachineExamples.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/misc/!svn/ver/1148/AchaMachines/AchaMachinesExamples/TuringMachineExamples.cs
+END
+AchaMachinesExamples.mdp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/misc/!svn/ver/1260/AchaMachines/AchaMachinesExamples/AchaMachinesExamples.mdp
+END
+FiniteStateMachineExamples.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/misc/!svn/ver/1148/AchaMachines/AchaMachinesExamples/FiniteStateMachineExamples.cs
+END
+achamachinesexamples.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/misc/!svn/ver/1245/AchaMachines/AchaMachinesExamples/achamachinesexamples.pc.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/misc/!svn/ver/1247/AchaMachines/AchaMachinesExamples/Makefile
+END

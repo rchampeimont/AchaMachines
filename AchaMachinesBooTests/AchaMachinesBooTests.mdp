@@ -1,0 +1,23 @@
+<Project name="AchaMachinesBooTests" fileversion="2.0" language="Boo" clr-version="Net_2_0" targetFramework="2.0" ctype="DotNetProject">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="DotNetProjectConfiguration">
+      <Output directory="bin/Debug" assembly="AchaMachinesBooTests" />
+      <Build debugmode="True" target="Exe" />
+      <Execution runwithwarnings="True" consolepause="True" runtime="MsNet" clr-version="Net_2_0" />
+      <CodeGeneration genwarnings="False" ducky="False" culture="" ctype="BooCompilerParameters" />
+    </Configuration>
+    <Configuration name="Release" ctype="DotNetProjectConfiguration">
+      <Output directory="bin/Release" assembly="AchaMachinesBooTests" />
+      <Build debugmode="False" target="Exe" />
+      <Execution runwithwarnings="True" consolepause="True" runtime="MsNet" clr-version="Net_2_0" />
+      <CodeGeneration genwarnings="False" ducky="False" culture="" ctype="BooCompilerParameters" />
+    </Configuration>
+  </Configurations>
+  <Contents>
+    <File name="AchaMachinesBooTests.boo" subtype="Code" buildaction="Compile" />
+  </Contents>
+  <References>
+    <ProjectReference type="Project" localcopy="True" refto="AchaMachines" />
+    <ProjectReference type="Project" localcopy="True" refto="AchaMachinesExamples" />
+  </References>
+</Project>
