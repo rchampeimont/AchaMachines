@@ -1,6 +1,0 @@
-Name: AchaMachinesExamples
-Description: AchaMachinesExamples
-Version: 
-
-Requires: 
-Libs: -r:@expanded_libdir@/@PACKAGE@/AchaMachinesExamples.dll
